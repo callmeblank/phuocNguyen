@@ -1,0 +1,1 @@
+print("Let make a rainbow")

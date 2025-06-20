@@ -1,4 +1,8 @@
 #include <iostream>
+#include <string>
 int main(){
-    std::cout << "hello, world";
+    std::string name;
+    std::cout << "Enter your name here: ";
+    std:: cin >> name;
+    std::cout << "hello " + name;
 }
