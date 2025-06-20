@@ -4,5 +4,5 @@ int main(){
     std::string name;
     std::cout << "Enter your name below: ";
     std:: cin >> name;
-    std::cout << "hello " + name;
+    std::cout << "hello " << name << " ,wellcome to new_branch";
 }
